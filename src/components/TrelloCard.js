@@ -15,6 +15,7 @@ const TrelloCard = ({text,id}) =>{
           {text}
         </Typography>
       </CardContent>
+        
     </Card>
     )
 }
